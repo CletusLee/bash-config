@@ -1,3 +1,5 @@
 install the following tools
 
 1. sudo apt-get install apparix
+2. ln -s ~/bash-config/bashrc ~/.bashrc
+3. source ~/.bashrc
